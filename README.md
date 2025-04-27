@@ -32,10 +32,8 @@ This screenshot displays the terminal output where the Control Centre is sending
 - "Sprinkler system activated" for FIRE
 - "Flood barrier raised" for FLOOD
 
-![image](https://github.com/user-attachments/assets/3fd6df2a-18bd-40a2-ac1d-b08dd2fb4723)
-![image](https://github.com/user-attachments/assets/c0cba2f3-7cd4-4bbf-8347-00f981ed46d0)
-![image](https://github.com/user-attachments/assets/9df847da-7e3b-4a13-9304-df2eb007a82c)
-![image](https://github.com/user-attachments/assets/447413a3-6ca2-4647-b983-61b10170cb76)
+![4](https://github.com/user-attachments/assets/d4d55c5e-367b-4948-b635-15be7d2cfb4d)
+
 
 It also logs packet receive time and alert type clearly, demonstrating how each node reacts based on the alert received.
 
