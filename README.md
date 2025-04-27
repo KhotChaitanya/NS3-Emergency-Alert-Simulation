@@ -43,20 +43,18 @@ It also logs packet receive time and alert type clearly, demonstrating how each 
 
 This visualization shows nodes arranged in a circular layout representing a star topology, with arrows indicating packet movement from the Control Centre to receiver nodes.
 
-![image](https://github.com/user-attachments/assets/5f83d665-a8bc-4a17-949e-d14528f64409)
-![image](https://github.com/user-attachments/assets/a9880ab0-d4c1-4527-92c3-2068bd104ee7)
-![image](https://github.com/user-attachments/assets/b415ef51-e714-4393-96c8-250e68ad4523)
-![image](https://github.com/user-attachments/assets/11765e82-2677-4406-968d-fe19593548e7)
-![image](https://github.com/user-attachments/assets/fc0f960c-eab3-4878-9e98-b40dfefc8164)
-![image](https://github.com/user-attachments/assets/ea175e7f-6439-4f07-a5af-b771efab91cf)
-
+![5](https://github.com/user-attachments/assets/5a31bd6c-37dc-46c2-ac5c-61cafab96255)
+![6](https://github.com/user-attachments/assets/c5ff12d7-b852-4858-8207-8d0817d596bd)
+![7](https://github.com/user-attachments/assets/f0014fad-3494-42e9-b4d3-9f42b53f6a51)
+![8](https://github.com/user-attachments/assets/25493b3b-397d-4c18-a9a4-ca382c3ddf03)
+![9](https://github.com/user-attachments/assets/d9165d1b-6a2b-42f2-afeb-8bdca899ed85)
+![10](https://github.com/user-attachments/assets/7be35045-c16e-4295-9a09-b81f0aaa2838)
 
 ### 3. Graphical Representation of Alerts Using Python:
 
 A bar graph generated from the `alert_log.csv` file shows the number of FIRE and FLOOD alerts sent over simulation time.
 
-![image](https://github.com/user-attachments/assets/ddffd858-597d-4bdb-9e58-cdad0fc63b39)
-
+![plot](https://github.com/user-attachments/assets/0927b64c-4e59-4f1b-8915-c90749a2abaf)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
